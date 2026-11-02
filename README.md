@@ -1,8 +1,10 @@
 # P10 -- Guiding FASTENER with an LLM and a Knowledge Graph
 
+**Authors:** Klemen Kenda and Sidorela Uku, Jožef Stefan Institute (klemen.kenda@ijs.si, sidorela.uku@ijs.si)
+
 **Placeholder.** No manuscript yet. This repository will hold the paper's plan, evidence snapshots, references and, later, the manuscript.
 
-Guiding FASTENER with a large language model and an explicit knowledge graph (joint work).
+Guiding FASTENER with a large language model and an explicit knowledge graph.
 
 | | |
 |---|---|
